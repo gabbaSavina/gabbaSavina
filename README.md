@@ -1,4 +1,4 @@
-# ¡Hola! Soy Savina 👋
+# ¡Hola! Soy gabbaSavina 👋
 
 Desarrolladora backend en formación 💻  
 Apasionada por la tecnología aplicada a la salud 🩺, el impacto social 🌱 y la gestión pública 🏛️
