@@ -1,7 +1,7 @@
 # ¡Hola! Soy gabbaSavina 👋
 
 Desarrolladora backend en formación 💻  
-Apasionada por la tecnología aplicada a la salud 🩺, el impacto social 🌱 y la gestión pública 🏛️
+Buscando crecer profesionalmente en el desarrollo backend, especialmente en entornos de servicios dinámicos y orientados a las personas.
 
 ---
 
@@ -37,7 +37,7 @@ Apasionada por la tecnología aplicada a la salud 🩺, el impacto social 🌱 y
 ## 📫 Contacto
 
 - ✉️ Email: gabbasavina@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](www.linkedin.com/in/savina-gabba)
 
 ---
 
