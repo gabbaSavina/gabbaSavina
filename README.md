@@ -30,7 +30,7 @@ Apasionada por la tecnología aplicada a la salud 🩺, el impacto social 🌱 y
 ## 🚀 Proyectos destacados
 
 - 🔹 [turnos-api](https://github.com/gabbaSavina/turnos-api): API REST para gestionar turnos médicos
-- 🔹 [patient-api](https://github.com/gabbaSavina/patient-api): Registro y validación de pacientes
+
 
 ---
 
