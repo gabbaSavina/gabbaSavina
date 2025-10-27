@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 ![Natural](https://img.shields.io/badge/Natural-005C84?logoColor=white&label=Adabas&labelColor=gray)  
-![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)
+
 
 ---
 
