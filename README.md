@@ -1,60 +1,91 @@
-![Banner](https://i.ibb.co/cC7FJcP/github-banner.png)
 
-# 👋 Hola, soy Savina Gabba
+# 👋 Hi, I'm Savina
 
-💻 **Backend & Data Engineering Enthusiast**  
-🚀 Experiencia en **Node.js** y **bases de datos**  
-🌱 Estudiando **Natural/Adabas** e **Ingeniería de Datos (IBM)**  
+🎯 Backend & Data Engineer in progress
+I’m currently building REST APIs, ETL pipelines and data-driven solutions, combining backend development with data engineering practices.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Natural](https://img.shields.io/badge/Natural-005C84?logoColor=white&label=Adabas&labelColor=gray)  
-
+* 💻 Transitioning into the tech industry from a health background
+* 🧠 Focused on Backend Development & Data Engineering
+* 🏗️ Building portfolio projects with real-world data
+* 📊 Interested in health-tech, data platforms and social impact solutions
+* 🌎 Open to Junior Backend / Data opportunities
 
 ---
 
-## 📂 Proyectos destacados
+## 🛠️ Tech Stack
 
-- [**turnos-api**](https://github.com/gabbaSavina/turnos-api)  
-  API REST para la gestión de turnos médicos. Incluye endpoints para administrar pacientes, médicos y reportes.  
-  *Tecnologías:* Node.js, Express, JSON, MVC  
+**Backend**
 
-- [**backend_desde_cero_con_nodejs**](https://github.com/gabbaSavina/backend_desde_cero_con_nodejs)  
-  Actividades y proyectos realizados durante el curso de Desarrollo Backend con Node.js en ADA ITW.  
-  *Tecnologías:* Node.js, Express, JavaScript  
+* Node.js
+* Express
+* REST APIs
 
-- [**SQL**](https://github.com/gabbaSavina/SQL)  
-  Repositorio con mis primeras prácticas en SQL.  
-  *Tecnologías:* MySQL, consultas básicas y avanzadas  
+**Data Engineering**
 
----
+* Python
+* Pandas
+* ETL Pipelines
+* Data Cleaning & Transformation
 
-## 🌱 Actualmente explorando
-- **Natural/Adabas** en entornos empresariales  
-- **Ingeniería de Datos (IBM)**  
-- Profundización en **bases de datos NoSQL y SQL**  
-- Autenticación y autorización con **JWT & bcrypt**  
-- Arquitecturas más robustas para proyectos backend  
+**Databases**
 
----
+* MySQL
+* PostgreSQL
+* Relational Modeling
+* SQL
 
-## 📫 Contacto
+**Tools**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savina-gabba)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gabbasavina@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/gabbaSavina)
+* Git & GitHub
+* Postman
+* VS Code
 
 ---
 
-✨ *Gracias por visitar mi perfil. Siempre abierta a aprender, colaborar y crear proyectos con impacto real.*
+## 📂 Featured Projects
+
+🔹 **Turnos API**
+REST API for appointment management with CRUD operations and backend business logic.
+Tech: Node.js · Express · SQL (in progress)
+
+🔹 **ETL Data Pipeline (in progress)**
+End-to-end pipeline: API extraction → data transformation → SQL load.
+Tech: Python · Pandas · SQL
+
+🔹 **Mini Data Warehouse (planned)**
+Star schema modeling and analytics queries for business insights.
+
+---
+
+## 📚 Currently Learning
+
+* Data Engineering Professional Certification (IBM)
+* Advanced SQL & Data Modeling
+* Data Warehousing Concepts
+* Pipeline Orchestration
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready ETL pipelines
+* Design scalable data architectures
+* Deploy backend & data projects
+* Land my first role in Data Engineering / Backend
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 LinkedIn: 
+* 📧 Email: *(optional)*
+* 🌐 Portfolio: *(future link)*
+
+---
+
+⭐ *Always learning, always building.*
+
