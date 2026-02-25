@@ -1,4 +1,4 @@
-
+<img src="banner.png" alt="Backend & Data Engineering Banner" width="100%" />
 
 # Hi, I'm Savina 👋
 
