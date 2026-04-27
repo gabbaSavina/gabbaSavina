@@ -1,88 +1,184 @@
 <img src="banner.png" alt="Backend & Data Engineering Banner" width="100%" />
 
-# Hi, I'm Savina 👋
+# Hi, I'm Savina Gabba 👋
 
-Backend Developer & Data Engineering Student  
-Building APIs, databases and data pipelines with a strong foundation in logic and systems thinking.
+Backend & Data-Oriented Developer in Training  
+Focused on **JavaScript, Node.js, SQL, Python, data analysis and relational database design**.
 
----
+I am building a technical portfolio that connects my background in **healthcare, customer support and education** with my current path in **backend development, data analysis and databases**.
 
-## 🚀 Professional Profile
-
-I am transitioning into the tech industry with a clear focus on **Backend Development and Data Engineering**.
-
-My background in structured environments, problem resolution and user support allows me to approach technical challenges with analytical thinking, organization and strong documentation practices.
-
-I am currently developing hands-on projects to demonstrate real-world backend and data skills.
+My current focus is learning by building real projects: REST APIs, public data analysis, SQL database design and technical documentation.
 
 ---
 
-## 🧠 What I’m Focused On
+## About Me
 
-- Designing and building REST APIs
-- Relational database modeling (PostgreSQL / MySQL)
-- Writing advanced SQL queries
-- Building ETL pipelines with Python
-- Data cleaning and transformation
-- Understanding data warehousing concepts
-- Backend architecture fundamentals
+- Transitioning into tech with a strong interest in backend, data and databases.
+- Background in healthcare, customer service, technical support and education.
+- Focused on SQL, Python, JavaScript, Node.js, PostgreSQL and MySQL.
+- Interested in data analysis, business analysis, backend systems and health-tech projects.
+- Building portfolio projects with real-world data, database design and clear documentation.
+- Open to junior / trainee opportunities in Data Analysis, Business Analysis, Backend Development, IT Support and technical roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
+
+- JavaScript
 - Node.js
-- Express
-- REST API design
+- Express.js
+- REST APIs
+- API validation
+- Error handling
 - Postman
 
-### Data Engineering
+### Data Analysis
+
 - Python
 - Pandas
-- ETL pipelines
-- Data transformation
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Exploratory Data Analysis
 
 ### Databases
+
+- SQL
 - PostgreSQL
 - MySQL
-- SQL
-- Relational Modeling
-- Normalization & Data Integrity
+- Relational database design
+- Data modeling
+- Primary keys and foreign keys
+- Constraints, views and indexes
 
 ### Tools
-- Git & GitHub
+
+- Git
+- GitHub
 - VS Code
-- pgAdmin
 - MySQL Workbench
+- pgAdmin
+- Command line / terminal
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
-🔜 I will be uploading backend and data projects that demonstrate:
+### 1. Scheduling API
 
-- API development with authentication and business logic
-- End-to-end ETL processes
-- Data modeling and database implementation
-- Structured, documented and production-ready code
+REST API for multi-tenant appointment scheduling built with **Node.js, Express and PostgreSQL**.
 
-Stay tuned — projects coming soon.
+This project focuses on backend architecture, relational data modeling, business rules, request validation, error handling and technical documentation.
+
+**What it shows:**
+
+- REST API development
+- Layered architecture
+- PostgreSQL schema design
+- Multi-tenant logic with `clinic_id`
+- API validation
+- Error handling
+- Smoke tests and CI basics
+
+**Repository:** [scheduling-api](https://github.com/gabbaSavina/scheduling-api)
 
 ---
 
-## 🎯 Career Goal
+### 2. Health Facilities Analysis Argentina
 
-To start my professional journey in a **Backend or Data-related role**, contributing to scalable systems while continuing to grow technically every day.
+Exploratory data analysis project using **Python, Pandas, NumPy and Matplotlib** to analyze healthcare facilities in Argentina based on public open data from REFES.
+
+This project connects my healthcare background with data analysis, focusing on data cleaning, aggregation, visualization and interpretation.
+
+**What it shows:**
+
+- Data cleaning with Pandas
+- Exploratory Data Analysis
+- Public health data analysis
+- Missing values and duplicate checks
+- Data visualization with Matplotlib
+- Analytical interpretation and documentation
+
+**Repository:** [health-facilities-analysis-argentina](https://github.com/gabbaSavina/health-facilities-analysis-argentina)
 
 ---
 
-## 🤝 Let’s Connect
+### 3. Rehabilitation Clinic Database Design
 
-I am open to:
+Relational database design project for a rehabilitation clinic using **MySQL**.
 
-- Junior Backend roles  
-- Data Engineering entry-level opportunities  
-- Technical Support roles with data/backend exposure  
+This project models patients, professionals, specialties, treatment plans, therapy goals, appointments, session notes and evaluations.
 
-📩 Feel free to connect or reach out.
+**What it shows:**
+
+- MySQL database design
+- Relational modeling
+- Normalization
+- Primary and foreign keys
+- CHECK and UNIQUE constraints
+- Analytical SQL queries
+- Views and indexes
+- Healthcare domain modeling
+
+**Repository:** [rehab-clinic-database-design](https://github.com/gabbaSavina/rehab-clinic-database-design)
+
+---
+
+## What My Portfolio Shows
+
+My current portfolio is built around three connected areas:
+
+| Area | Project | Main Skills |
+|---|---|---|
+| Backend Development | Scheduling API | Node.js, Express, PostgreSQL, REST APIs |
+| Data Analysis | Health Facilities Analysis Argentina | Python, Pandas, NumPy, Matplotlib |
+| Database Design | Rehabilitation Clinic Database Design | MySQL, SQL, relational modeling |
+
+Together, these projects show that I can:
+
+- Build backend APIs.
+- Work with relational databases.
+- Analyze real-world datasets.
+- Document technical decisions.
+- Translate healthcare domain knowledge into technical projects.
+- Learn and apply tools through hands-on practice.
+
+---
+
+## Currently Learning
+
+- Advanced SQL and relational database modeling
+- Python for data analysis
+- Backend development with Node.js and Express
+- PostgreSQL and MySQL
+- Data cleaning and exploratory data analysis
+- Technical documentation
+- Business and data analysis foundations
+
+---
+
+## Professional Direction
+
+I am developing a hybrid profile that combines:
+
+- Backend development
+- Data analysis
+- SQL and database design
+- Healthcare domain knowledge
+- Technical documentation
+- Problem solving and user-centered thinking
+
+I am especially interested in roles where I can use data and technology to understand problems, improve processes and build useful solutions.
+
+---
+
+## Let's Connect
+
+- LinkedIn: add your LinkedIn URL here
+- GitHub: [github.com/gabbaSavina](https://github.com/gabbaSavina)
+
+---
+
+⭐ Always learning, always building.
