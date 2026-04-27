@@ -176,7 +176,7 @@ I am especially interested in roles where I can use data and technology to under
 
 ## Let's Connect
 
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: [linkedin.com/in/savina-gabba](https://www.linkedin.com/in/savina-gabba)
 - GitHub: [github.com/gabbaSavina](https://github.com/gabbaSavina)
 
 ---
