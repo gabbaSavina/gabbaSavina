@@ -1,4 +1,4 @@
-![Savina Gabba Banner](./images/banner3.png)
+![Savina Gabba Banner](banner3.png)
 
 # Hi, I'm Savina Gabba 👋
 
