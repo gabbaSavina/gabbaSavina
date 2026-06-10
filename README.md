@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabbaSavina/gabbaSavina/raw/main/image_7.png">
-  <img alt="Banner de Savina Gabba" src="https://github.com/gabbaSavina/gabbaSavina/raw/main/image_7.png" style="max-width: 100%;">
-</picture>
+![Savina Gabba Banner](./images/banner3.png)
 
 # Hi, I'm Savina Gabba 👋
 
