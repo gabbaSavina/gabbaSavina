@@ -22,56 +22,44 @@ My approach is learning by building: APIs, database projects, public data analys
 * Open to junior and trainee opportunities in Backend Development, Data Analysis, Technical Writing, AI Evaluation and related technical roles.
 
 ---
-
 ## Tech Stack
 
-### Backend
 
-* JavaScript
-* Node.js
-* Express.js
-* REST APIs
-* Request validation
-* Error handling
-* Postman
+| Backend            | Data Analysis             |
+| ------------------ | ------------------------- |
+| JavaScript         | Python                    |
+| Node.js            | Pandas                    |
+| Express.js         | NumPy                     |
+| REST APIs          | Matplotlib                |
+| Request validation | Jupyter Notebook          |
+| Error handling     | Exploratory Data Analysis |
+| Postman            | Data cleaning             |
 
-### Data Analysis
+---
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-* Exploratory Data Analysis
+| Technical Documentation                        | Tools                   |
+| ---------------------------------------------- | ----------------------- |
+| Markdown                                       | Git                     |
+| GitHub documentation                           | GitHub                  |
+| Technical writing                              | VS Code                 |
+| API documentation                              | MySQL Workbench         |
+| AI evaluation concepts                         | pgAdmin                 |
+| Human feedback and RLHF foundations            | Jupyter Notebook        |
+| Documentation structure and quality dimensions | Command line / terminal |
 
-### Databases
+---
 
-* SQL
-* PostgreSQL
-* MySQL
-* Relational database design
-* Data modeling
-* Constraints, views and indexes
+| Databases                  |
+| -------------------------- |
+| SQL                        |
+| PostgreSQL                 |
+| MySQL                      |
+| Relational database design |
+| Data modeling              |
+| Constraints                |
+| Views                      |
+| Indexes                    |
 
-### Technical Documentation
-
-* Markdown
-* GitHub documentation
-* Technical writing
-* API documentation
-* AI evaluation concepts
-* Human feedback and RLHF foundations
-* Documentation structure and quality dimensions
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* MySQL Workbench
-* pgAdmin
-* Jupyter Notebook
-* Command line / terminal
 
 ---
 
