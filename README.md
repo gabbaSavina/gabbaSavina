@@ -1,4 +1,7 @@
-<img src="banner.png" alt="Backend & Data Engineering Banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabbaSavina/gabbaSavina/raw/main/image_7.png">
+  <img alt="Banner de Savina Gabba" src="https://github.com/gabbaSavina/gabbaSavina/raw/main/image_7.png" style="max-width: 100%;">
+</picture>
 
 # Hi, I'm Savina Gabba 👋
 
